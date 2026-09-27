@@ -1,0 +1,95 @@
+{
+  "mojokerto, indonesia": {
+    "place_id": 29899039,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9676367,
+    "lat": "-7.5413377",
+    "lon": "112.5094975",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 12,
+    "importance": 0.47329590008323624,
+    "addresstype": "county",
+    "name": "Mojokerto",
+    "display_name": "Mojokerto, Jawa Timur, Indonesia",
+    "address": {
+      "county": "Mojokerto",
+      "state": "Jawa Timur",
+      "ISO3166-2-lvl4": "ID-JI",
+      "country": "Indonesia",
+      "country_code": "id"
+    },
+    "boundingbox": [
+      "-7.7791313",
+      "-7.3031090",
+      "112.3327560",
+      "112.6708221"
+    ]
+  },
+  "taman, indonesia": {
+    "place_id": 29833689,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9680033,
+    "lat": "-7.3631369",
+    "lon": "112.6756620",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 14,
+    "importance": 0.2917175836992075,
+    "addresstype": "municipality",
+    "name": "Taman",
+    "display_name": "Taman, Sidoarjo, Jawa Timur, Indonesia",
+    "address": {
+      "municipality": "Taman",
+      "county": "Sidoarjo",
+      "state": "Jawa Timur",
+      "ISO3166-2-lvl4": "ID-JI",
+      "country": "Indonesia",
+      "country_code": "id"
+    },
+    "boundingbox": [
+      "-7.3900777",
+      "-7.3361528",
+      "112.6149522",
+      "112.7198221"
+    ]
+  },
+  "citra harmoni, armo, sarmi, kabupaten sarmi, papua, indonesia": null,
+  "citra harmoni, sarmi, kabupaten sarmi, papua, indonesia": null,
+  "citra harmoni, kabupaten sarmi, papua, indonesia": null,
+  "citra harmoni, papua, indonesia": null,
+  "jl. ahmad yani, indonesia": {
+    "place_id": 29314586,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 145008503,
+    "lat": "-0.4764447",
+    "lon": "117.1594430",
+    "category": "highway",
+    "type": "primary",
+    "place_rank": 26,
+    "importance": 0.053388431372548985,
+    "addresstype": "road",
+    "name": "Jalan Ahmad Yani",
+    "display_name": "Jalan Ahmad Yani, Temindung Permai, Sungai Pinang, Samarinda, Kalimantan Timur, 75242, Indonesia",
+    "address": {
+      "road": "Jalan Ahmad Yani",
+      "village": "Temindung Permai",
+      "city_district": "Sungai Pinang",
+      "city": "Samarinda",
+      "state": "Kalimantan Timur",
+      "ISO3166-2-lvl4": "ID-KI",
+      "postcode": "75242",
+      "country": "Indonesia",
+      "country_code": "id"
+    },
+    "boundingbox": [
+      "-0.4791655",
+      "-0.4737313",
+      "117.1547667",
+      "117.1641210"
+    ]
+  }
+}
